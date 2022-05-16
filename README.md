@@ -1,6 +1,6 @@
 # Terraform examples
 
-This repository contains Terraform manifests examples for different Selectel
+This repository contains Terraform manifests examples for different Selectel 
 services.
 
 ## Repository structure
