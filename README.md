@@ -66,4 +66,4 @@ services.
   many Terraform environments.
   Those modules wrap Terraform resources and datasources and provide
   configurable variables.
-  All of those modules are fully compatible with the Selectel VPC service.
+  All of those modules are fully compatible with the Selectel VPC service..
